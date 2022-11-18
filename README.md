@@ -1,18 +1,19 @@
  
+### Hi 👋, I'm Akshat Agarwal
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Akshat-z.Akshat-z)
+
+
 ### ᴀʙᴏᴜᴛ ᴍᴇ 
 ┌───────────▰▰▰<br/> 
-│<br/>
-├─▣ ʜɪ, ɪ'ᴍ ᴀᴋꜱʜᴀᴛ ᴀɢᴀʀᴡᴀʟ!<br/>
 ├─▣ ᴍʏ ɪɴᴛᴇʀᴇꜱᴛ ʟɪᴇꜱ ɪɴ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ.<br/>
 ├─▣ ɪ ᴀᴍ ᴀ ᴊᴜɴɪᴏʀ-ʏᴇᴀʀ ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ ᴍᴀᴅᴀɴ ᴍᴏʜᴀɴ ᴍᴀʟᴀᴠɪʏᴀ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɢᴏʀᴀᴋʜᴘᴜʀ.<br/>
 ├─▣ 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ. ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ<br/>
 ├─▣ 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ:akshatagarwal0810@gmail.com<br/>
 ├─▣ ʜᴇᴀᴠʏ ᴄᴏғғᴇᴇ ᴅʀɪɴᴋᴇʀ<br/>
 ├─▣ ᴀᴅᴀᴘᴛᴇᴅ ᴛᴏ ʟᴇᴀʀɴ<br/>
-│<br/>
+  <img align="right" width="320"  src="https://github.com/Akshat-z/Akshat-z/blob/main/developer.gif?raw=true" />
 └───────────────────────────────▰▰▰<br/>
-
-
 
  
 ### ᴄᴏɴɴᴇᴄᴛ ᴍᴇ ᴡɪᴛʜ:
