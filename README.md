@@ -10,9 +10,9 @@
 ├─▣ ɪ ᴀᴍ ᴀ ᴊᴜɴɪᴏʀ-ʏᴇᴀʀ ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ ᴍᴀᴅᴀɴ ᴍᴏʜᴀɴ ᴍᴀʟᴀᴠɪʏᴀ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɢᴏʀᴀᴋʜᴘᴜʀ.<br/>
 ├─▣ 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ. ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ<br/>
 ├─▣ 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ:akshatagarwal0810@gmail.com<br/>
+  <img align="right" width="320"  src="https://github.com/Akshat-z/Akshat-z/blob/main/developer.gif?raw=true" />
 ├─▣ ʜᴇᴀᴠʏ ᴄᴏғғᴇᴇ ᴅʀɪɴᴋᴇʀ<br/>
 ├─▣ ᴀᴅᴀᴘᴛᴇᴅ ᴛᴏ ʟᴇᴀʀɴ<br/>
-  <img align="right" width="320"  src="https://github.com/Akshat-z/Akshat-z/blob/main/developer.gif?raw=true" />
 └───────────────────────────────▰▰▰<br/>
 
  
